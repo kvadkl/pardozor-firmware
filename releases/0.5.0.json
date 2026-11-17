@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "pardozor",
+  "target": "esp32s3-n16r8",
+  "version": "0.5.0",
+  "channel": "stable",
+  "released": "2026-11-17",
+  "asset": "pardozor-0.5.0.bin",
+  "size": 1717920,
+  "sha256": "cdf8010a9a28d31a759ce7709ef88c91d820cfa55bda8266f2cf8bc8b5a2ecbc",
+  "url": "https://github.com/kvadkl/pardozor-firmware/releases/download/v0.5.0/pardozor-0.5.0.bin",
+  "release_url": "https://github.com/kvadkl/pardozor-firmware/releases/tag/v0.5.0",
+  "notes": "Первый пользовательский выпуск ПарДозора P1: четыре датчика с поправками, температурный контроль, процессы и шаблоны, клапан с этапной ШИМ, весы, калькулятор, графики и постоянные журналы, отчёты, диагностика, сохранённые сети Wi-Fi и обновления из интернета. Публикуются только проверенные пользовательские версии по отдельному разрешению автора."
+}
