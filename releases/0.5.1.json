@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "pardozor",
+  "target": "esp32s3-n16r8",
+  "version": "0.5.1",
+  "channel": "stable",
+  "released": "2026-11-17",
+  "asset": "pardozor-0.5.1.bin",
+  "size": 1718912,
+  "sha256": "a88d3418188e6e47e0a7b98a038bb1f0b5d630131e8b3179a1c0f509644dee5f",
+  "url": "https://github.com/kvadkl/pardozor-firmware/releases/download/v0.5.1/pardozor-0.5.1.bin",
+  "release_url": "https://github.com/kvadkl/pardozor-firmware/releases/tag/v0.5.1",
+  "notes": "Исправлено скачивание по длинным подписанным адресам GitHub. Увеличен HTTP-буфер, добавлены точные HTTP/DNS/TLS-ошибки и проверка заголовков. Настройки и журналы сохраняются. ВАЖНО: с 0.5.0 и более ранних версий первый переход на 0.5.1 выполнить вручную файлом — старый загрузчик не исправляется публикацией нового образа."
+}
